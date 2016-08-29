@@ -6,4 +6,5 @@ package com.lanou3g.demo;
 public class NewActivity {
     //仙剑
     //你是不是中二
+    //你才中二
 }
