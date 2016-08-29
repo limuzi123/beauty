@@ -5,9 +5,11 @@ package com.lanou3g.demo;
  */
 public class NewActivity {
     //仙剑
-<<<<<<< HEAD
+
     //李逍遥
-=======
+
     //你是不是中二
->>>>>>> 76c47bebd80ad45d4bf445b28604feefa30278b8
+
+    //你才中二
+
 }
